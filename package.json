@@ -1,0 +1,11 @@
+{ "name": "obj-ops"
+, "version": "0.0.0"
+, "description": "add, subtract, or & and two objects"
+, "homepage": "http://github.com/dominictarr/obj-ops"
+, "repository": 
+  { "type": "git"
+  , "url": "https://github.com/dominictarr/obj-ops.git" }
+, "dependencies": {}
+, "devDependencies": {}
+, "author": "Dominic Tarr <dominic.tarr@gmail.com> (http://bit.ly/dominictarr)"
+, "scripts": { "test": "meta-test test/*.js" } }
